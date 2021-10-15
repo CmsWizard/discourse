@@ -1,7 +1,7 @@
 #! /bin/bash
 
 echo "================================================================"
-echo "======== Welcome to the Fxlinux Discourse CMS installer ========"
+echo "============== Welcome to the Discourse installer =============="
 echo "================================================================"
 
 # INSTALLING DOCKER
@@ -21,4 +21,4 @@ sudo ./discourse-setup
 echo "============================ DONE! ============================="
 echo "= Wait a minute or two as setup might be running in background ="
 echo "====== Finalize installation at 'https://your.domain.com' ======"
-echo "===================== https://fxlinux.com ======================"
+echo "===================== =================== ======================"
